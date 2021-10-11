@@ -6,7 +6,8 @@
                     <div class="card-header">Example Component</div>
 
                     <div class="card-body">
-                        this will be comment box
+                        this will be comment boxaa
+                        <button type="button" class="btn btn-primary">Primary</button>
                     </div>
                 </div>
             </div>
